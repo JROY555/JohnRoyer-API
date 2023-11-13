@@ -1,0 +1,24 @@
+[ 
+  {
+    "id": "Halo-3-xbox-2007",
+    "title": "Halo 3",
+    "genre": "Sci-Fi",
+    "type": "FPS",
+    "cover_art": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/02/halo-3-cover-infinite.jpg"
+  },
+{
+  "id": "Starfield-xbox-2023",
+  "title": "Starfield",
+  "genre": "Sci-Fi",
+  "type": "Space RPG",
+  "cover_art": "https://i0.wp.com/www.lifeisxbox.eu/wp-content/uploads/2023/09/STARFIELD-MAIN-1.jpg?fit=2560%2C1440&ssl=1"
+  },
+
+  {
+    "id": "Apex-Legends-xbox-2020",
+  "title": "Apex Legends",
+  "genre": "Battle royale",
+  "type": "FPS",
+  "cover_art": "https://esi.si.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_xy_center%2Cq_auto:good%2Cw_768%2Cx_1033%2Cy_993/MTk3NTUwMDI5NjcyNTU1NTI2/apex_s17_primary_art_3840x2160.jpg"
+  },
+]
